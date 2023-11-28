@@ -1,0 +1,53 @@
+[
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "currentPrice": 3200
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys",
+      "currentPrice": 1500
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "currentPrice": 2500
+    },
+    {
+      "symbol": "HDFC",
+      "name": "HDFC Bank",
+      "currentPrice": 1400
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Limited",
+      "currentPrice": 200
+    },
+    {
+      "symbol": "WIPRO",
+      "name": "Wipro",
+      "currentPrice": 450
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
+      "currentPrice": 700
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies",
+      "currentPrice": 1000
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance",
+      "currentPrice": 3500
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil and Natural Gas Corporation",
+      "currentPrice": 120
+    }
+  ]
+  
