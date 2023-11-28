@@ -1,4 +1,4 @@
-import express from "express";
+import express from 'express';
 import cors from 'cors'
 import { connectDB } from './db.js'
 import {stockRoute} from './route/route.stock.js'
